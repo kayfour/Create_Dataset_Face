@@ -1,5 +1,5 @@
-# Create_Dataset_Face
-# Dataset을 직접 만들어서 머신러닝으로 학습시킨 OCR 프로그램
+### Create_Dataset_Face
+## Dataset을 직접 만들어서 머신러닝으로 학습시킨 OCR 프로그램
 
 1. 데이터 수집
   Scraping_faces_google.py (아무사진 스크래핑용)
