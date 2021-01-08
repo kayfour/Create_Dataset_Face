@@ -30,5 +30,6 @@
 5. Myface_detector.py (메인 프로그램 )
   
   -모델 matrix.pkl을 load하여 model.predict()함수로 나인지(dataset > 1 폴더에 있는 사진 주인공인지), 아닌지 판별하는 프로그램.
+  
   =웹캠 인식 오류는...
    cap = cv.VideoCapture(0) # 괄호안에 (0) 자신의 컴퓨터의 웹캠 번호, 모르겠으면, 0,1,2,3... 해보면 인식된다. 
